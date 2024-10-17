@@ -10,7 +10,6 @@ import authRoutes from "./routes/auth.js";
 
 /* CONFIGURATIONS */
 dotenv.config();
-console.log("Project ID:", process.env.PROJECT_ID);
 const app = express();
 app.use(express.json());
 app.use(helmet());

@@ -1,4 +1,9 @@
-# chat-app
+<p align="center">
+  <img src="images/logo.png" alt="Project Logo" width="200">
+</p>
+
+
+# chatty-bot
 A full stack chat app using OpenAI's API.
 
 ## Features
